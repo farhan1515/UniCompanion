@@ -1,16 +1,16 @@
-# uni_companion
+# UNI_COMPANION
 
-A new Flutter project.
+## A Flutter-based mobile application designed for university students to simplify their academic journey. 
+## This app integrates key features like attendance tracking, subject management, a chatbot for student queries, and downloadable resources, making it a one-stop solution for students' needs.
 
-## Getting Started
+# Features
+## Chatbot: A virtual assistant to answer student queries about subjects, schedules, and more.
+## ERP Integration: Track attendance and view semester grades in real time.
+## Subject Management: Access a list of subjects, professors, and detailed information about courses.
+## Downloadable Resources: Easily access and download course materials like PDFs.
+## User-Friendly Interface: Clean and intuitive design ensuring ease of use for all students.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Technologies Used
+## Flutter: Frontend for cross-platform app development.
+## Dart: The programming language used with Flutter.
+## Firebase: Backend services for real-time database and authentication.
